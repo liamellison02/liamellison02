@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Liam Ellison or @liamellison02
-- 👀 I’m interested in front-end web development, information technology, and project management
-- 🌱 I’m currently studying Computer Science at Augusta University
-- 💞️ I’m looking to collaborate on web design projects, Python/JS discord bots, and more!
-- 📫 How to reach me: liam.ellison.codes@gmail.com or liaellison@augusta.edu
-
+-  Hi, I’m Liam Ellison
+-  I’m interested in front-end web development, game design, and AI
+-  I'm currently studying Computer Science at Augusta University
+-  I’m looking to collaborate on web design projects, Python/JS discord bots, and more!
+-  How to reach me: liam.ellison.codes@gmail.com or liaellison@augusta.edu
