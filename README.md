@@ -1,5 +1,2 @@
--  Hi, I’m Liam Ellison
--  I’m interested in front-end web development, game design, and AI
--  I'm currently studying Computer Science at Augusta University
--  I’m looking to collaborate on web design projects, Python/JS discord bots, and more!
--  How to reach me: liam.ellison.codes@gmail.com or liaellison@augusta.edu
+I'm Liam and I enjoy creating clever and unique software solutions as well as learning about the latest and greatest technologies.
+-  How to reach me: liam.word@gmail.com or lellison6@student.gsu.edu
