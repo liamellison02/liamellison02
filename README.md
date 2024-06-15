@@ -36,6 +36,5 @@ I'm Liam and I enjoy creating clever and unique software solutions as well as le
 </br>
 </br>
 
-![](https://raw.githubusercontent.com/liam-ellison/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/liamellison02/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/liamellison02/github-stats/master/generated/languages.svg#gh-dark-mode-only)
