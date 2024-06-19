@@ -25,8 +25,8 @@ I'm Liam and I enjoy creating clever and unique software solutions as well as le
 ### Languages, Frameworks, DBs 👨‍💻
 <a href="https://www.python.org/" target="_blank"><img align="left" alt="python.org" height="32px" src="https://github.com/liamellison02/profile-assets/blob/main/python-logo.svg" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="typescriptlang.org" height="32px" src="https://github.com/liamellison02/profile-assets/blob/main/typescript-logo.svg" /></a>
-<a href="https://cplusplus.com/" target="_blank"><img align="left" alt="cplusplus.com" height="32px" src="https://github.com/liamellison02/profile-assets/blob/main/cpp-logo.svg" /></a>
 <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank"><img align="left" alt="dotnet.microsoft.com/en-us/languages/csharp" height="32px" src="https://github.com/liamellison02/profile-assets/blob/main/csharp-logo.svg" /></a>
+<a href="https://cplusplus.com/" target="_blank"><img align="left" alt="cplusplus.com" height="32px" src="https://github.com/liamellison02/profile-assets/blob/main/cpp-logo.svg" /></a>
 <a href="https://react.dev/" target="_blank"><img align="left" alt="react.dev" height="32px" src="https://github.com/liamellison02/profile-assets/blob/main/react-logo.svg" /></a>
 <a href="https://nodejs.org/" target="_blank"><img align="left" alt="nodejs.org" height="32px" src="https://github.com/liamellison02/profile-assets/blob/main/node-logo.svg" /></a>
 <a href="https://flask.palletsprojects.com/" target="_blank"><img align="left" alt="flask.palletsprojects.com" height="32px" src="https://github.com/liamellison02/profile-assets/blob/main/flask-logo.svg" /></a>
